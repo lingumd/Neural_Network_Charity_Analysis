@@ -20,7 +20,9 @@ With machine learning and neural networks, use the features in the provided data
   - STATUS
   - SPECIAL_CONSIDERATIONS
 ### Compiling, Training, and Evaluating the Model
--Neural Network Model
+#### Neural Network Model - Final Model (Attempt #3)
+
+![nnd3](./Images/nnd3_3.png)
   - Neurons
     - 1st hidden layer: number_input_features * 3 = 1185  
     - 2nd hidden layer: number_input_features * 2 = 790
