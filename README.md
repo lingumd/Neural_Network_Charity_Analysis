@@ -42,4 +42,4 @@ With machine learning and neural networks, use the features in the provided data
   - Adjusting the amount of layers and neurons and the type of activation functions in the model.
    
 ## Summary
-The results of this model are good, but could be better. A different model with different variables could solve the classification problem because it could be that the inclusion of so many variables is causing the model to be inaccurate.
+The results of this model are good, but could be better. A different model with different variables could solve the classification problem because it could be that the inclusion of so many variables is causing the model to be inaccurate. The model can also be adjusted with different amounts of layers and neurons and different activation functions. In particular, the number of neurons can be determined according to general rules, such as the number of neurons being 2/3 the size of the input layer, plus the size of the output layer and less than twice the size of the input layer.
